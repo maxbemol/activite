@@ -1,0 +1,1 @@
+Présentation du projet pour l'apprentissage de GIT
